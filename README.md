@@ -73,6 +73,7 @@ View Logs:
 ```bash
 docker logs web-container
 ```
+<img width="1914" height="842" alt="image" src="https://github.com/user-attachments/assets/13c1d628-a7fa-421a-bc87-b89d09c9bf06" />
 
 ## Learning Outcomes
 
